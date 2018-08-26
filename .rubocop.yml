@@ -5,6 +5,9 @@ Layout/IndentationWidth:
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 
+Style/ParenthesesAroundCondition:
+  AllowInMultilineConditions: true
+
 AllCops:
   TargetRubyVersion: 2.4
 
